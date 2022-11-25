@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <title>Lixo Web</title>
+  <link href="https://jovempa2.github.io/Lixo-Web/style.css" rel="stylesheet"/>
+  <script src="https://jovempa2.github.io/Lixo-Web/style.css/scripts.js"></script>
 </head>
 
 <body>
